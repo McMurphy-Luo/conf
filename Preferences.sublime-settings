@@ -1,9 +1,19 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_face": "Source Code Pro",
-	"font_size": 16,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"directwrite",
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -13,21 +23,26 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"draw_white_space": "all",
-	"translate_tabs_to_spaces": true,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme",
+	"match_brackets_angle": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_small_tab": true,
 	"material_theme_tree_headings": true,
-	//"material_theme_arrow_folders"            : true , // Replace folder icons with arrows
-	"material_theme_big_fileicons"            : true , // Show bigger file type icons
-	"material_theme_bullet_tree_indicator"    : true , // Set a bullet as active tree indicator
-	//"material_theme_compact_sidebar"          : true , // Set compact side bar
-	"material_theme_disable_folder_animation" : true , // Disable folder animation
-	//"material_theme_disable_tree_indicator"   : true , // Disable sidebar file indicator,
-	"material_theme_small_tab"                : true , // Set small tabs
-	// Panels
-	"material_theme_accent_scrollbars"        : true , // Enable accent color for scrollbars
-	"material_theme_bright_scrollbars"        : true , // Bright scrollbars puck color
+	"overlay_scroll_bars": "enabled",
+	"scroll_speed": 0,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ui_big_tabs": true,
+	"ui_font_size_small": true,
+	"ui_separator": true,
+	"word_wrap": "true"
 }
