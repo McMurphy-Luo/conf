@@ -1,19 +1,17 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Consolas",
+	"font_face": "consolas",
 	"font_options":
 	[
-		"directwrite",
-		"subpixel_antialias"
+		"directwrite"
 	],
-	"font_size": 14,
-	"highlight_line": true,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -37,12 +35,16 @@
 	"scroll_speed": 0,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"spell_check": true,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_default": true,
 	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_native_titlebar": true,
 	"ui_separator": true,
+	"ui_wide_scrollbars": true,
 	"word_wrap": "true"
 }
