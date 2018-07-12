@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 22,
+    "editor.roundedSelection": false,
+    "editor.renderControlCharacters": true,
+    "files.eol": "\n",
+    "editor.minimap.renderCharacters": false,
+    "files.autoGuessEncoding": true,
+    "files.useExperimentalFileWatcher": true
+}
