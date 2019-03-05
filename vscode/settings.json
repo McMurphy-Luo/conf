@@ -14,15 +14,17 @@
   "editor.wordWrapColumn": 120,
   "editor.detectIndentation": false,
   "window.zoomLevel": 0,
-  "workbench.activityBar.visible": true,
   "workbench.sideBar.location": "left",
   "breadcrumbs.enabled": false,
   "editor.fontLigatures": true,
   "workbench.colorTheme": "Solarized Dark",
   "workbench.editor.enablePreview": false,
-  "workbench.editor.tabSizing": "shrink",
-  "editor.cursorSmoothCaretAnimation": true,
   "workbench.useExperimentalGridLayout": true,
   "workbench.editor.highlightModifiedTabs": true,
-  "search.showLineNumbers": true
+  "search.showLineNumbers": true,
+  "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
+  "editor.parameterHints.cycle": true,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.useSplitJSON": true
 }
