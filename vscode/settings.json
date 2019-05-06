@@ -3,12 +3,11 @@
   "editor.renderWhitespace": "all",
   "editor.tabCompletion": "on",
   "editor.useTabStops": false,
-  "editor.lineHeight": 28,
+  "editor.lineHeight": 26,
   "editor.roundedSelection": false,
   "editor.renderControlCharacters": true,
   "files.eol": "\n",
   "editor.wordWrap": "on",
-  "editor.minimap.renderCharacters": false,
   "files.autoGuessEncoding": true,
   "files.useExperimentalFileWatcher": true,
   "editor.wordWrapColumn": 120,
@@ -24,7 +23,10 @@
   "search.showLineNumbers": true,
   "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
   "editor.parameterHints.cycle": true,
-  "workbench.editor.tabSizing": "shrink",
   "workbench.settings.openDefaultSettings": true,
-  "workbench.settings.useSplitJSON": true
+  "workbench.settings.useSplitJSON": true,
+  "extensions.ignoreRecommendations": true,
+  "editor.minimap.renderCharacters": false,
+  "workbench.tree.indent": 12,
+  "workbench.editor.tabSizing": "shrink"
 }
