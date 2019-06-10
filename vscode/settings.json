@@ -3,15 +3,13 @@
   "editor.renderWhitespace": "all",
   "editor.tabCompletion": "on",
   "editor.useTabStops": false,
-  "editor.lineHeight": 26,
+  "editor.lineHeight": 28,
   "editor.roundedSelection": false,
   "editor.renderControlCharacters": true,
   "files.eol": "\n",
   "editor.wordWrap": "on",
   "files.autoGuessEncoding": true,
-  "files.useExperimentalFileWatcher": true,
   "editor.wordWrapColumn": 120,
-  "editor.detectIndentation": false,
   "window.zoomLevel": 0,
   "workbench.sideBar.location": "left",
   "breadcrumbs.enabled": false,
@@ -28,5 +26,6 @@
   "extensions.ignoreRecommendations": true,
   "editor.minimap.renderCharacters": false,
   "workbench.tree.indent": 12,
+  "editor.fontSize": 15,
   "workbench.editor.tabSizing": "shrink"
 }
