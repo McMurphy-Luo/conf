@@ -4,11 +4,12 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 `::  ; `
-IfWinActive, ahk_class ConsoleWindowClass
+If WinActive("ahk_class CASCADIA_HOSTING_WINDOW_CLASS ahk_exe WindowsTerminal.exe")
 {
 WinMinimize
 }
-else
+else if WinExist("ahk_class CASCADIA_HOSTING_WINDOW_CLASS ahk_exe WindowsTerminal.exe")
 {
-Send, ^!``
+WinActivate, ahk_class CASCADIA_HOSTING_WINDOW_CLASS
 }
+return
